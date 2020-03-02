@@ -1,25 +1,25 @@
 # MWA Workshop 2-1
 ## Machine Learning Algorithms I
 
-### Clustering
+### 1. Clustering
 
-#### K-Mean
+#### 1.1 K-Mean
 
-1. ให้เปิด interactive example แล้วศึกษาขั้นตอนการทำงานของ K-Mean Clustering
+ให้เปิด interactive example แล้วศึกษาขั้นตอนการทำงานของ K-Mean Clustering
 
 http://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/
 
 
-#### K-Nearest Neighbor
+#### 1.2 K-Nearest Neighbor
 
-2. ให้เปิด interactive example แล้วศึกษาขั้นตอนการทำงานของ K-NN
+ให้เปิด interactive example แล้วศึกษาขั้นตอนการทำงานของ K-NN
 
 https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/
 
 
-#### Regression
+### 2. Regression
 
-3. ให้เปิด Colab notebook แล้วทำแบบฝึกหัดเกี่ยวกับ regression
+ให้เปิด Colab notebook แล้วทำแบบฝึกหัดเกี่ยวกับ regression
 
 ปล. ต้องมีบัญชี Google ในการรัน Colab
 
