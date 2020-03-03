@@ -14,7 +14,7 @@ http://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/
 
 ให้เปิด interactive example แล้วศึกษาขั้นตอนการทำงานของ K-NN
 
-https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/
+https://sunnypwang.github.io/knn_interactive/
 
 
 ### 2. Regression
