@@ -2,7 +2,9 @@
 ## Machine Learning Algorithms I
 
 สื่อการสอน
-https://drive.google.com/file/d/1Cgb-NATaQz_xCuv8ttrDlRPGODN-yYr5/view?usp=sharing
+- https://drive.google.com/file/d/1Cgb-NATaQz_xCuv8ttrDlRPGODN-yYr5/view?usp=sharing
+
+- https://docs.google.com/presentation/d/1Mjl5AGz1ydFKBOhViSV7mT59aCmVB-XahVi86QebGX0/edit?usp=sharing
 
 ### 1. Clustering
 
