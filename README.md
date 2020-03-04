@@ -24,6 +24,16 @@ https://sunnypwang.github.io/knn_interactive/
 
 ให้เปิด Colab notebook แล้วทำแบบฝึกหัดเกี่ยวกับ regression
 
+Google Colab เป็นโปรเจ็คที่พัฒนาโดยทีม Google Research ที่เปิดให้นักศึกษาและคนทั่วไปเริ่มเขียนโค้ด Python ใช้งานได้ฟรีผ่าน Google Chrome Browser
+
+ขั้นตอนการใช้งาน
+
+1. เมื่อหน้าเว็บโหลดเสร็จแล้ว ให้กด **Open in Playground** ที่มุมซ้ายบน
+
+2. Colab จะแบ่งโค้ดออกเป็น Cell ต่างๆ โดยให้กดปุ่ม Play ที่มุมซ้ายบนของแต่ละ Cell หรือกด `Shift + ENTER` เพื่อรันโค้ดของ Cell นั้นๆ เมื่อรันเสร็จแล้วจะมีตัวเลขโชว์ในกรอบสี่เหลี่ยม `[]` และผลของโค้ดใน Cell น้ันจะแสดงข้างใต้ (ถ้ามี)
+
+![](https://github.com/sunnypwang/mwa_workshop/raw/master/colab.jpg)
+
 ปล. ต้องมีบัญชี Google ในการรัน Colab
 
 https://colab.research.google.com/drive/1nRWORJ5rQYTXrXd0_FDoMBghpRpKN4NN
