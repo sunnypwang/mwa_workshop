@@ -1,6 +1,9 @@
 # MWA Workshop 2-1
 ## Machine Learning Algorithms I
 
+สื่อการสอน
+https://drive.google.com/file/d/1Cgb-NATaQz_xCuv8ttrDlRPGODN-yYr5/view?usp=sharing
+
 ### 1. Clustering
 
 #### 1.1 K-Mean
