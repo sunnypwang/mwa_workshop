@@ -3,8 +3,12 @@
 ## Machine Learning Algorithms II
 
 - Neural Network
+- Explainable ML
 - Decision Trees
-- Interpretable ML
+
+## Slides
+https://drive.google.com/file/d/1IfepNv70YieguLEctDQdVPlxeTuo3CcH/view?usp=sharing
+
 
 ### Google Colab Notebook
 
