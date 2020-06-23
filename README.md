@@ -4,6 +4,7 @@
 
 ## Slides
 
+https://drive.google.com/file/d/19ZPpTu0zZTgdJUNz6FSvCz2VzYjjFOpZ/view?usp=sharing
 
 ### Google Colab Notebook
 
